@@ -5,6 +5,7 @@ int main() {
     int numero2 = 20;
 
     printf("Resultado: %d\n", numero1 + numero2);
+    printf("Subtracao: %d\n", numero1 - numero2);
 
     return 0;
 }
